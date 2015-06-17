@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'pry'
 gem 'rails_12factor'
 #styling stuff
 gem 'devise'
